@@ -134,5 +134,6 @@ dist
 
 /**/scripts
 
+/videojs
 videojs
 !README.md
